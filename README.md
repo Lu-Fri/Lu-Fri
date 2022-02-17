@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lukas</h1>
 <h3 align="center">A junior system integrator with lots of passion.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lufr1" alt="lufr1" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lufr1&label=Profile%20views&color=ff7800&style=flat" alt="lufr1" /> </p>
 
 - I’m currently learning **Python and Networking**
 

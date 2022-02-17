@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python and Networking**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: LuFr1</h3>
 <p align="left">
 </p>
 

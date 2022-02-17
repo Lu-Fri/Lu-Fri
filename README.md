@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lukas</h1>
 <h3 align="center">A junior system integrator with lots of passion.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lufr1&label=Profile%20views&color=ff7800&style=flat" alt="lufr1" /> </p>
-
 - I’m currently learning **Python and Networking**
 
 

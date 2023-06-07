@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Lukas</h1>
-<h3 align="center">A junior system integrator with lots of passion.</h3>
+<h1 align="center">Hi, I'm LuFri</h1>
+<h3 align="center">A Junior Engineer starting his job career.</h3>
 
-- I’m currently learning **Python and Networking**
+- I’m currently learning strengthenig my knowledge torwards networking and cloud engineering.
+- Trying to get a foothold in the field of cyber security.
